@@ -1,0 +1,2 @@
+C:\Users\ДжабашевН.CORP\source\repos\InterfaceLesson\InterfaceLesson\obj\Debug\InterfaceLesson.csprojAssemblyReference.cache
+C:\Users\ДжабашевН.CORP\source\repos\InterfaceLesson\InterfaceLesson\obj\Debug\InterfaceLesson.csproj.CoreCompileInputs.cache
